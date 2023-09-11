@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot");
-  src: url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"), url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2"), url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff") format("woff"), url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf") format("truetype"), url("httprennanmax80.github.io/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+  src: url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot");
+  src: url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot#iefix") format("embedded-opentype"), url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2"), url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff") format("woff"), url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf") format("truetype"), url("/smart-tesouraria/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
 .fas {

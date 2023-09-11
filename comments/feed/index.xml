@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre blogdev	</title>
-	<atom:link href="httprennanmax80.github.io/smart-tesouraria/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>httprennanmax80.github.io/smart-tesouraria</link>
+	<atom:link href="/smart-tesouraria/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/smart-tesouraria</link>
 	<description></description>
 	<lastBuildDate>Thu, 07 Sep 2023 02:40:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>httprennanmax80.github.io/smart-tesouraria/2023/09/06/ola-mundo/#comment-1</link>
+		<link>/smart-tesouraria/2023/09/06/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Thu, 07 Sep 2023 02:40:56 +0000</pubDate>
-		<guid isPermaLink="false">httprennanmax80.github.io/smart-tesouraria/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/smart-tesouraria/?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
